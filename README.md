@@ -3,7 +3,7 @@ Python code for converting Cityscapes/Foggy-Cityscapes dataset to PASCAL VOC for
 
 This code is based on [this](https://github.com/hamzarawal/cityscapes-to-voc)
 
-cityscapes_dir is the directory **under which is [/train /val /test]** e.g. the cityscapes/leftImg8bit folder of the original file from [the cityscapes official website](https://www.cityscapes-dataset.com/)
+cityscapes_dir is the folder **under which is [/train /val /test]** e.g. the cityscapes/leftImg8bit folder of the original file from [the cityscapes official website](https://www.cityscapes-dataset.com/)
 
 ------------
 
