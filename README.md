@@ -17,4 +17,4 @@ for detail please refer to the original ipynb from [hamzarawal (Hamza Rawal) (gi
 
 Modify cityscapes_dir and save_path in the python file to your own path.
 
-Then just run the python file directly. Only tested in Linux.
+Then just run the python file directly. Only tested on Linux.
